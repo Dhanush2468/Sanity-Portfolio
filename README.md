@@ -179,6 +179,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Praveen Dunga - [@Praveenterax](https://www.instagram.com/white__devil2468/) - dhanushgollavilli02@gmail.com
-Project Link: [https://praveenterax-portfolio.netlify.app](https://gdkdev.vercel.app/)
+Whitedevil -  dhanushgollavilli02@gmail.com
 
